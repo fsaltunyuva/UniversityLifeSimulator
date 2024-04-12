@@ -1,0 +1,505 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1377,
+      "max": [
+        3.9214389324188232,
+        7.180633544921875,
+        4.739106178283691
+      ],
+      "min": [
+        -3.921438694000244,
+        1.1144556999206543,
+        -3.1037700176239014
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 16524,
+      "componentType": 5126,
+      "count": 1377,
+      "max": [
+        0.9999473094940186,
+        0.01629253663122654,
+        0.9999473690986633
+      ],
+      "min": [
+        -0.9999473690986633,
+        -0.6604252457618713,
+        -0.9999473690986633
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 1377,
+      "max": [
+        1.0,
+        0.7416174411773682
+      ],
+      "min": [
+        2.9802322387695313e-08,
+        0.0010353252291679382
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 7680,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 33048,
+      "componentType": 5126,
+      "count": 6473,
+      "max": [
+        -3.134780168533325,
+        5.122737407684326,
+        7.6054816246032715
+      ],
+      "min": [
+        -8.170737266540527,
+        0.06560317426919937,
+        2.5985560417175293
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 110724,
+      "componentType": 5126,
+      "count": 6473,
+      "max": [
+        0.9997314214706421,
+        0.9997898936271667,
+        0.9996512532234192
+      ],
+      "min": [
+        -0.9997314810752869,
+        -0.9997898936271667,
+        -0.9996512532234192
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 6473,
+      "max": [
+        0.8365885615348816,
+        0.6596806645393372,
+        0.9999564290046692,
+        1.0
+      ],
+      "min": [
+        -0.8365917205810547,
+        -0.6596953868865967,
+        -0.9999563694000244,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 11016,
+      "componentType": 5126,
+      "count": 6473,
+      "max": [
+        0.9095785617828369,
+        0.723507285118103
+      ],
+      "min": [
+        4.437565803527832e-05,
+        0.2557781934738159
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 30720,
+      "componentType": 5125,
+      "count": 37440,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 188400,
+      "componentType": 5126,
+      "count": 11985,
+      "max": [
+        7.4636640548706055,
+        17.05585289001465,
+        4.843847751617432
+      ],
+      "min": [
+        -7.463665008544922,
+        6.395924091339111,
+        -4.024895191192627
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 332220,
+      "componentType": 5126,
+      "count": 11985,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 103568,
+      "componentType": 5126,
+      "count": 11985,
+      "max": [
+        1.0,
+        0.9995530843734741,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 62800,
+      "componentType": 5126,
+      "count": 11985,
+      "max": [
+        0.9995173215866089,
+        0.9894771575927734
+      ],
+      "min": [
+        0.0,
+        0.0035306215286254883
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 180480,
+      "componentType": 5125,
+      "count": 68832,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Alec Huxley (https://sketchfab.com/alechuxley)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/basketball-hoop-2dc0a999ab8c4d378dd3256a6a6619a6",
+      "title": "Basketball Hoop"
+    },
+    "generator": "Sketchfab-14.98.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 455808,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 158680,
+      "byteOffset": 455808,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 476040,
+      "byteOffset": 614488,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 295328,
+      "byteOffset": 1090528,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 1385856,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/BBallNetMaterial_baseColor.png"
+    },
+    {
+      "uri": "textures/BasketballlMaterial_baseColor.png"
+    },
+    {
+      "uri": "textures/BasketballlMaterial_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/BasketballlMaterial_normal.png"
+    },
+    {
+      "uri": "textures/BBallBoardMaterial_baseColor.png"
+    },
+    {
+      "uri": "textures/BBallBoardMaterial_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/BBallBoardMaterial_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "name": "BBallNetMaterial",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "BasketballlMaterial",
+      "normalTexture": {
+        "index": 3
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 1
+        },
+        "metallicRoughnessTexture": {
+          "index": 2
+        }
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "BBallBoardMaterial",
+      "normalTexture": {
+        "index": 6
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 4
+        },
+        "metallicRoughnessTexture": {
+          "index": 5
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "net_BBallNetMaterial_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "ball_BasketballlMaterial_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TANGENT": 6,
+            "TEXCOORD_0": 7
+          },
+          "indices": 8,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "board_BBallBoardMaterial_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 10,
+            "POSITION": 9,
+            "TANGENT": 11,
+            "TEXCOORD_0": 12
+          },
+          "indices": 13,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "3a61d5b9e4d245dab09c5816933f54f6.fbx"
+    },
+    {
+      "children": [
+        3,
+        5,
+        7
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "name": "net"
+    },
+    {
+      "mesh": 0,
+      "name": "net_BBallNetMaterial_0"
+    },
+    {
+      "children": [
+        6
+      ],
+      "name": "ball"
+    },
+    {
+      "mesh": 1,
+      "name": "ball_BasketballlMaterial_0"
+    },
+    {
+      "children": [
+        8
+      ],
+      "name": "board"
+    },
+    {
+      "mesh": 2,
+      "name": "board_BBallBoardMaterial_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    },
+    {
+      "sampler": 0,
+      "source": 4
+    },
+    {
+      "sampler": 0,
+      "source": 5
+    },
+    {
+      "sampler": 0,
+      "source": 6
+    }
+  ]
+}
