@@ -1,4 +1,4 @@
-using UnityEngine;
+ using UnityEngine;
 using Random = System.Random; //To use the Random class
 
 public class Stick : MonoBehaviour
